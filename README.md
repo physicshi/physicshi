@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=physicshi&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<!-- ### Hello~ 👋 -->
+
+- :orange_book: Focusing on JavaScript & Golang & Rust
+- 🔭 I'm currently working on JavaScript App and Golang Web Development
+- 🍀 I'm currently learning and sharing on [my blog](https://physicshi.github.io/blog/), welcome~
+
+
+

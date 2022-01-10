@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- ### Hello~ 👋 -->
 
-- :orange_book: Focusing on JavaScript & Golang & Rust
-- 🔭 I'm currently working on JavaScript App and Golang Web Development
+- :orange_book: Focusing on JavaScript & Rust
+- 🔭 I'm currently working on JavaScript App
 - 🍀 I'm currently learning and sharing on [my blog](https://physicshi.github.io/blog/), welcome~
 
 <img src="https://github.com/physicshi/github-workflows/blob/output/github-snake.gif" />

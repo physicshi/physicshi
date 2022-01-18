@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on JavaScript & Rust
 - 🔭 I'm currently working on JavaScript App
-- 🍀 I'm currently learning and sharing on [my blog](https://physicshi.github.io/blog/), welcome~
+- 🍀 I'm currently learning and sharing on [my blog](http://47.93.25.160/), welcome~
 
 <img src="https://github.com/physicshi/github-workflows/blob/output/github-snake.gif" />
 
